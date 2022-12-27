@@ -1,7 +1,7 @@
 package day1;
 
-class Solution {
-	public int solution(int age) {
+¤±class Age {
+	public int age(int age) {
 		int answer = 0;
     
 		answer = 2022-age+1;
@@ -13,8 +13,8 @@ class Solution {
 public class question_PrintaAge {
 
 	public static void main(String args[]) {
-		Solution solution = new Solution();
-		System.out.println(solution.solution(23));
+		Age age = new Age();
+		System.out.println(age.age(23));
 	}
 	
 }
