@@ -1,6 +1,6 @@
 package day1;
 
-¤±class Age {
+class Age {
 	public int age(int age) {
 		int answer = 0;
     
