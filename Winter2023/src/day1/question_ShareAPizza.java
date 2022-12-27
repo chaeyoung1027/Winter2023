@@ -10,11 +10,8 @@ class Pizza {
 }
 
 public class question_ShareAPizza {
-
 	public static void main(String[] args) {
 		Pizza pizza = new Pizza();
 		System.out.println(pizza.solution(3));
-
 	}
-
 }
